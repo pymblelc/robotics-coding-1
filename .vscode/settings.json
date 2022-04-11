@@ -1,0 +1,25 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".vscode/": true,
+        ".gradle/": true,
+        "gradle/": true,
+        ".git*": true,
+        "gradlew*": true,
+        "**/*.gradle": true,
+        "**/resources/": true,
+        "**/build/": true,
+        "app/src/main/java/lesson1/App.java": true,
+        // "**/*Base.java": true,
+        // "**/test/": true,
+    },
+    "explorer.compactFolders": true,
+    "java.project.sourcePaths": [
+        "app/src/main/java"
+    ]
+}
