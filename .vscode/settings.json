@@ -15,6 +15,7 @@
         "**/resources/": true,
         "**/build/": true,
         "app/src/main/java/lesson1/App.java": true,
+        "_config.yml": true,
         // "**/*Base.java": true,
         // "**/test/": true,
     },
